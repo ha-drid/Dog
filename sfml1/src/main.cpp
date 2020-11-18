@@ -6,6 +6,7 @@
 #include "window.h"
 #include "size.h"
 
+//Если у вас что то не так работает статья по установке sfml https://ravesli.com/graficheskaya-biblioteka-sfml-vstuplenie-i-ustanovka/
 
 int main()
 {
